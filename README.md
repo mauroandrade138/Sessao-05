@@ -9,3 +9,5 @@ Análise de Vulnerabilidades em Linux e Ferramentas de Auditoria
 **A)Aceder ao KillerCoda Ubuntu Playground**
 
 **B)Atualizar a árvore de pacotes e instalar o Lynis: sudo apt update && sudo apt install lynis -y**
+
+<img width="567" height="577" alt="image" src="https://github.com/user-attachments/assets/73c8ae3e-7aca-4c9c-bedc-daceac23194b" />
