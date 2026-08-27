@@ -4,4 +4,4 @@ Execução de um exame de auditoria técnica automatizada para identificar desvi
 Laboratório — Sessão 5:
 Análise de Vulnerabilidades em Linux e Ferramentas de Auditoria
 
-#Tarefas a Executar
+# Tarefas a Executar
