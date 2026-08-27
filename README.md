@@ -5,3 +5,7 @@ Laboratório — Sessão 5:
 Análise de Vulnerabilidades em Linux e Ferramentas de Auditoria
 
 # Tarefas a Executar
+
+**A)Aceder ao KillerCoda Ubuntu Playground**
+
+**A)Aceder ao KillerCoda Ubuntu Playground**
