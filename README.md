@@ -32,3 +32,10 @@ Análise de Vulnerabilidades em Linux e Ferramentas de Auditoria
 
 <img width="432" height="254" alt="image" src="https://github.com/user-attachments/assets/5cff0712-39ca-4496-b204-d8f34a3b5f69" />
 
+<img width="521" height="111" alt="image" src="https://github.com/user-attachments/assets/9603f421-b303-453e-9f9b-204df9091e55" />
+
+# Critérios de Entrega
+
+Mini-relatório técnico:
+
+<img width="765" height="396" alt="image" src="https://github.com/user-attachments/assets/9978e0e3-1d15-4bd4-8b03-75ab5860da3d" />
